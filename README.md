@@ -8,10 +8,10 @@ Atividades e trabalhos realizados no curso de Gestão da Produção Industrial (
 
 📆 | 19/08/2026
 
-👉 Realizamos a primeira atividade prática na disciplina de Pesquisa Operacional, com o uso do software Excel, cujo o objetivo foi promover a integração e o conhecimento entre os alunos do curso. Na planilha, foram organizadas informações sobre os exercícios apresentados em aula, uma vez em que, agora será aplicado o uso de gráficos para análises de variados cenários dentro do ambiente industrial. 
+👉 Realizamos a primeira atividade prática na disciplina de Pesquisa Operacional, com o uso do software Excel, cujo objetivo foi promover a integração e a aplicação dos conceitos estudados em sala de aula. Na planilha, foram organizadas informações referentes aos exercícios apresentados durante as aulas, abordando cenários como o problema de um vendedor de meias (Exercício 1) e o planejamento da produção em uma marcenaria (Exercício 2). A partir desses dados, foram elaborados gráficos que possibilitaram a análise de diferentes situações e a visualização dos resultados, demonstrando a aplicabilidade das ferramentas de Pesquisa Operacional em variados contextos industriais e empresariais.
 
 ## Atividade 02 | Exercícios:
 
 📆 | 26/08/2026
 
-👉 Realizamos a segunda atividade prática na disciplina de Pesquisa Operacional, ainda fazendo uso do software Excel. Na planilha, foram estruturados os dados referentes aos exercícios desenvolvidos em aula, com o objetivo de possibilitar a aplicação de gráficos para a análise de diferentes cenários presentes no contexto industrial.
+👉 Realizamos a segunda atividade prática na disciplina de Pesquisa Operacional, ainda fazendo uso do software Excel. Na planilha, foram estruturados os dados referentes aos exercícios desenvolvidos em aula, abordando situações relacionadas ao planejamento e à otimização de processos, como a produção em uma fábrica de brinquedos (Exercício 3), a gestão produtiva de uma fábrica de fantasias (Exercício 4) e a logística de transporte de um navio (Exercício 5). A partir dessas informações, foram elaborados gráficos com o objetivo de analisar diferentes cenários e apoiar a tomada de decisões em contextos industriais e logísticos.

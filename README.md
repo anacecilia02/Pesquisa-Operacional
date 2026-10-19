@@ -10,6 +10,11 @@ Atividades e trabalhos realizados no curso de Gestão da Produção Industrial (
 
 👉 Realizamos a primeira atividade prática na disciplina de Pesquisa Operacional, com o uso do software Excel, cujo objetivo foi promover a integração e a aplicação dos conceitos estudados em sala de aula. Na planilha, foram organizadas informações referentes aos exercícios apresentados durante as aulas, abordando cenários como o problema de um vendedor de meias (Exercício 1) e o planejamento da produção em uma marcenaria (Exercício 2). A partir desses dados, foram elaborados gráficos que possibilitaram a análise de diferentes situações e a visualização dos resultados, demonstrando a aplicabilidade das ferramentas de Pesquisa Operacional em variados contextos industriais e empresariais.
 
+<img width="800" height="700" alt="Captura de tela 2026-10-19 185756" src="https://github.com/user-attachments/assets/52f05c81-442a-4103-80ed-70fcc844a535" />
+
+<img width="985" height="537" alt="Captura de tela 2026-10-19 185918" src="https://github.com/user-attachments/assets/2a7f3469-136d-44b7-a5e7-05c21c21c8b5" />
+
+
 ## Atividade 02 | Exercícios:
 
 📆 | 26/08/2026

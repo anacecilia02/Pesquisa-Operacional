@@ -46,3 +46,41 @@ Atividades e trabalhos realizados no curso de Gestão da Produção Industrial (
 <img width="1425" height="281" alt="Captura de tela 2026-10-19 192906" src="https://github.com/user-attachments/assets/6ba90c17-da39-488f-8f27-3835af35a42f" />
 
 <img width="1475" height="299" alt="Captura de tela 2026-10-19 192917" src="https://github.com/user-attachments/assets/d565d6c7-8bd0-4b79-b6f7-2a1fae7630ca" />
+
+## Atividade 04 | Exercícios:
+
+📆 | 16/09/2026
+
+👉 Realizamos a terceira atividade prática na disciplina de Pesquisa Operacional, ainda fazendo uso do software Excel. Na planilha, foram estruturados os dados referentes aos exercícios desenvolvidos em aula, abordando situações relacionadas ao planejamento e à otimização de processos, com situações problemas com as temáticas de: alimentação com proteína e de jardins. A partir dessas informações, foram elaborados gráficos com o objetivo de analisar diferentes cenários e apoiar a tomada de decisões em contextos industriais e logísticos, com o uso de uma ferramenta de software presente no excel chamada SOLVER.
+
+<img width="1808" height="301" alt="Captura de tela 2026-10-19 193534" src="https://github.com/user-attachments/assets/693994e9-8483-429a-a54b-ce0d6621eddf" />
+
+<img width="1855" height="340" alt="Captura de tela 2026-10-19 193635" src="https://github.com/user-attachments/assets/9c873366-3886-4bdc-ba08-4980a6bcdd03" />
+
+## Atividade 05 | Exercícios:
+
+📆 | 23/09/2026
+
+👉 Realizamos a terceira atividade prática na disciplina de Pesquisa Operacional, ainda fazendo uso do software Excel. Na planilha, foram estruturados os dados referentes aos exercícios desenvolvidos em aula, abordando situações relacionadas ao planejamento e à otimização de processos, com situações problemas com as temáticas de: alimentação com proteína e de jardins. A partir dessas informações, foram elaborados gráficos com o objetivo de analisar diferentes cenários e apoiar a tomada de decisões em contextos industriais e logísticos, com o uso de uma ferramenta de software presente no excel chamada SOLVER.
+
+<img width="943" height="211" alt="Captura de tela 2026-10-19 195038" src="https://github.com/user-attachments/assets/b82daceb-d403-47ce-b0e8-f669dbd0efa8" />
+
+<img width="830" height="245" alt="Captura de tela 2026-10-19 194921" src="https://github.com/user-attachments/assets/e918ac58-510f-4f14-8faa-b02f317f75fb" />
+
+## Atividade 06 | Exercícios:
+
+📆 | 30/09/2026
+
+👉 Realizamos a terceira atividade prática na disciplina de Pesquisa Operacional, ainda fazendo uso do software Excel. Na planilha, foram estruturados os dados referentes aos exercícios desenvolvidos em aula, abordando situações relacionadas ao planejamento e à otimização de processos, com situações problemas com as temáticas de: alimentação com proteína e de jardins. A partir dessas informações, foram elaborados gráficos com o objetivo de analisar diferentes cenários e apoiar a tomada de decisões em contextos industriais e logísticos, com o uso de uma ferramenta de software presente no excel chamada SOLVER.
+
+## Atividade 07 | Exercícios:
+
+📆 | 07/10/2026
+
+👉 Realizamos a terceira atividade prática na disciplina de Pesquisa Operacional, ainda fazendo uso do software Excel. Na planilha, foram estruturados os dados referentes aos exercícios desenvolvidos em aula, abordando situações relacionadas ao planejamento e à otimização de processos, com situações problemas com as temáticas de: alimentação com proteína e de jardins. A partir dessas informações, foram elaborados gráficos com o objetivo de analisar diferentes cenários e apoiar a tomada de decisões em contextos industriais e logísticos, com o uso de uma ferramenta de software presente no excel chamada SOLVER.
+
+## Atividade 08 | Exercícios:
+
+📆 | 14/10/2026
+
+👉 Realizamos a terceira atividade prática na disciplina de Pesquisa Operacional, ainda fazendo uso do software Excel. Na planilha, foram estruturados os dados referentes aos exercícios desenvolvidos em aula, abordando situações relacionadas ao planejamento e à otimização de processos, com situações problemas com as temáticas de: alimentação com proteína e de jardins. A partir dessas informações, foram elaborados gráficos com o objetivo de analisar diferentes cenários e apoiar a tomada de decisões em contextos industriais e logísticos, com o uso de uma ferramenta de software presente no excel chamada SOLVER.
